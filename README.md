@@ -1,2 +1,3 @@
 # Jogo-FPS----HTML5.JavaScript
-Ferramentas -- HTML5.JavaScript()
+Ferramentas -- HTML5.JavaScript() <BR><BR>
+  APÓS O DOWNLOAD ESTRAIA O ARQUIVO E EXECUTE COM NAVEGAR "FIRE FOX"
